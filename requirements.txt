@@ -32,7 +32,7 @@ notebook==5.4.0
 numba==0.37.0
 numpy==1.13.3
 olefile==0.45.1
-opencv-python==3.4.0.12
+opencv-python==4.2.0.32
 pandocfilters==1.4.2
 parso==0.1.1
 pexpect==4.4.0
