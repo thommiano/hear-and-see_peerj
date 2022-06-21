@@ -30,7 +30,7 @@ nbconvert==5.3.1
 nbformat==4.4.0
 notebook==5.4.0
 numba==0.37.0
-numpy==1.13.3
+numpy==1.22.0
 olefile==0.45.1
 opencv-python==3.4.0.12
 pandocfilters==1.4.2
